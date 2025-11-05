@@ -34,5 +34,5 @@ It works like a mini command-line interface and supports basic file, directory, 
 2. Open **Command Prompt** in the project folder.  
 3. Compile using:  
    ```bash
-   gcc main.c functions.c -o myShell.exe
+   gcc myshell.c shell_functions.c -o myshell
 
